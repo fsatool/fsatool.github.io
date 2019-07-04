@@ -1,2 +1,2 @@
 # fsatool.github.io
-A useful for fast sampling and analysis for biomolecules
+A fast sampling and analysis tool for biomolecules
