@@ -17,7 +17,7 @@ FSATOOL is developed by Changjun Chen’s group in school of physics at Huazhong
 FSATOOL is not only a simple implementation package of the existing methods. We are continuously trying to improve their performances in the practical simulations. For example, we set up the state databases at all the temperature levels in the REMD simulation. This completely decouples the number of the active replicas and the number of the temperature levels. It could be helpful for a large system.
 Moreover, we combine the biased and the unbiased methods into one simulation. Biased replicas are for the fast sampling purpose and the unbiased replicas generate the data for free energy calculation. It provides a minimalist approach to the construction of the free energy landscape.
 
-1. H. Zhang, Q. Gong, H. Zhang, and C. Chen, Combining the biased and unbiased sampling strategy into One convenient free energy calculation method. J. Comput. Chem., 2019. 40: 1806-1815.
+1. H. Zhang, Q. Gong, H. Zhang, and C. Chen, Combining the biased and unbiased sampling strategy into one convenient free energy calculation method. J. Comput. Chem., 2019. 40: 1806-1815.
 2. C. Chen and Y. Huang, Walking freely in the energy and temperature space by the modified replica exchange molecular dynamics method. J. Comput. Chem., 2016. 37: 1565-1575
 
 # Acknowledgments 
