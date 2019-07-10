@@ -1,7 +1,7 @@
 # FSATOOL project
 
-FSATOOL is a useful tool for the conformational sampling and trajectory analysis for the biomolecules. It must be compiled with AMBER software (http://ambermd.org/). It contains several existing sampling methods, including replica exchange molecular dynamics (REMD), adaptively biased molecular dynamics (ABMD), steered molecular dynamics (SMD), essential dynamics sampling (EDS) and mixing REMD method. All these methods work in the accelerated simulations on GPU with AMBER.
-Besides the sampling function, it is also able to build the folding network and the dominant transition pathways from the simulation data based on the Markov state model (MSM) and the transition path theory. Users do not need to do the tedious intermediate steps by hand.
+[FSATOOL](https://fsatool.github.io/fsatool)[^1] is a useful tool for the conformational sampling and trajectory analysis for the biomolecules. It must be compiled with AMBER software (<http://ambermd.org/>). It contains several existing sampling methods, including **replica exchange molecular dynamics** (REMD), **adaptively biased molecular dynamics** (ABMD), s**teered molecular dynamics** (SMD), **essential dynamics sampling** (EDS) and **mixing REMD** method. All these methods work in the accelerated simulations on GPU with AMBER.
+Besides the sampling function, it is also able to build the folding netwo   rk and the dominant transition pathways from the simulation data based on the **Markov state model** (MSM) and the transition path theory. Users do not need to do the tedious intermediate steps by hand.
 
 # FSATOOL members
 
@@ -24,6 +24,4 @@ Moreover, we combine the biased and the unbiased methods into one simulation. Bi
 
 We gratefully acknowledge the support from the national natural science foundation of China (NSFC). 
 
-# FSATOOL document
-
-Please refer to <https://fsatool.github.io/fsatool>
+[^1]: Please refer <https://fsatool.github.io/fsatool> for documentation
