@@ -24,6 +24,6 @@ Moreover, we combine the biased and the unbiased methods into one simulation. Bi
 
 We gratefully acknowledge the support from the national natural science foundation of China (NSFC). 
 
-# FSATOOL Document
+# FSATOOL document
 
-Please refer to https://fsatool.github.io/fsatool.
+Please refer to <https://fsatool.github.io/fsatool>
