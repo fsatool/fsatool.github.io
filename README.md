@@ -26,6 +26,6 @@ We gratefully acknowledge the support from the National Natural Science Foundati
 
 # Source Data 
 
-The data of each figure are on the <https://github.com/fsatool/fsatool/tree/master/source_data>
+The data of each figure are available on the <https://github.com/fsatool/fsatool/tree/master/source_data>
 
 [^1]: Please refer <https://fsatool.github.io/fsatool> for documentation
