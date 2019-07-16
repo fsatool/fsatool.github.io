@@ -24,8 +24,5 @@ Moreover, we combine the biased and the unbiased methods into one simulation. Bi
 
 We gratefully acknowledge the support from the National Natural Science Foundation of China (NSFC). 
 
-# Source Data 
-
-The data of each figure are available on the <https://github.com/fsatool/fsatool/tree/master/source_data>
 
 [^1]: Please refer <https://fsatool.github.io/fsatool> for documentation
