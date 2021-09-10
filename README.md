@@ -6,14 +6,14 @@
 Associate Prof. Chen Changjun
 
 # Main Contributors In The Group
-Zhang Haomiao (doctoral student, 2016-2021)
-Gong Qiankun (graduate student, 2017-2020)
-Zhang Haozhe (graduate student, 2018-2021)
+* **Zhang Haomiao** (doctoral student, 2016-2021)
+* **Gong Qiankun** (graduate student, 2017-2020)
+* **Zhang Haozhe** (graduate student, 2018-2021)
 
 # Selected publications
 
-[1] H. Zhang, Q. Gong, H. Zhang, and C. Chen, FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules. J. Comput. Chem., 2020. 41: 156-164.
-[2] H. Zhang, Q. Gong, H. Zhang, and C. Chen, Combining the biased and unbiased sampling strategy into one convenient free energy calculation method. J. Comput. Chem., 2019. 40: 1806-1815.
+* H. Zhang, Q. Gong, H. Zhang, and C. Chen, FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules. J. Comput. Chem., 2020. 41: 156-164.
+* H. Zhang, Q. Gong, H. Zhang, and C. Chen, Combining the biased and unbiased sampling strategy into one convenient free energy calculation method. J. Comput. Chem., 2019. 40: 1806-1815.
 
 # Acknowledgments 
 
