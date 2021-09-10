@@ -20,4 +20,4 @@ Associate Prof. Chen Changjun
 We gratefully acknowledge the support from the National Natural Science Foundation of China (NSFC). 
 
 
-[^1]: Please refer <https://fsatool.github.io/fsatool> for documentation
+[^1]: Please refer to <https://fsatool.github.io/fsatool> for FSATOOL 1.0 documentation. New version is on the webpage <https://gitee.com/chen_changjun/fsatool-2.0/wikis/pages>.
