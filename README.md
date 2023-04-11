@@ -33,13 +33,15 @@ Associate Prof. **Chen, Changjun**
      FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules.                                                                              
      J. Comput. Chem. 2020, 41, 156-164              
 ```
-# Acknowledgment
 
-We gratefully acknowledge the support from the National Natural Science Foundation of China (NSFC).
+# Reference Manual
+  The reference manual is on the [websit](https://github.com/fsatool/fsatool.github.io/wiki/Architecture-Installation-Usage).
 
 # Download
 
+# Acknowledgment
 
+We gratefully acknowledge the support from the National Natural Science Foundation of China (NSFC).
 
 # Contact Information
 ```
