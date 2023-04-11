@@ -37,8 +37,6 @@ We gratefully acknowledge the support from the National Natural Science Foundati
 
 # Download
 
-current version:     [FSATOOL 2.0 (2021)](https://gitee.com/chen_changjun/fsatool-2.0)
-previous version:    [FSATOOL 1.0 (2019)](https://fsatool.github.io/)
 
 # Contact Information
   Associate Prof. **Chen, Changjun**
