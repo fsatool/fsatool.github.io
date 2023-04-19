@@ -44,9 +44,9 @@ Associate Prof. **Chen, Changjun**
 We gratefully acknowledge the support from the National Natural Science Foundation of China (NSFC).
 
 # Contact Information
-```
-  Associate Prof. **Chen, Changjun**
-  Email: **cjchen@hust.edu.cn**
-```
+
+* Associate Prof. **Chen, Changjun**
+* Email: **cjchen@hust.edu.cn**
+
 
 
