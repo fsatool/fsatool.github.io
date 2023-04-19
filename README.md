@@ -47,9 +47,6 @@ We gratefully acknowledge the support from the National Natural Science Foundati
 ```
   Associate Prof. **Chen, Changjun**
   Email: **cjchen@hust.edu.cn**
-  School of Physics
-  Huazhong University of Science and Technology
-  Wuhan 430074, Hubei, China
 ```
 
 
