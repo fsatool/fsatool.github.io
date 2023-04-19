@@ -35,7 +35,7 @@ Associate Prof. **Chen, Changjun**
 ```
 
 # Reference Manual
-  The FSATOOL reference manual is on the [website](https://github.com/fsatool/fsatool.github.io/wiki/Architecture-Installation-Usage).
+  The FSATOOL reference manual is on the [website](https://github.com/fsatool/fsatool.github.io/wiki).
 
 # Download
 
