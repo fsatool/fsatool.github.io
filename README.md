@@ -38,6 +38,7 @@ Associate Prof. **Chen, Changjun**
   The FSATOOL reference manual is on the [website](https://github.com/fsatool/fsatool.github.io/wiki).
 
 # Download
+[FSATOOL 2.0 (2021)](https://github.com/fsatool/fsatool.github.io)
 
 # Acknowledgment
 
