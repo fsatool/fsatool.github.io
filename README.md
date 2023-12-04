@@ -19,10 +19,10 @@ Associate Prof. **Chen, Changjun**
 # Software Functions
 
 * GPU-accelerated molecular dynamics simulation
-* enhanced sampling in collective variable space and temperature space
+* Enhanced sampling in collective variable space and temperature space
 * Markov state model analysis
-* free energy calculation
-* residue-residue contact analysis and Φ-value calculation
+* Free energy calculation
+* Electrostatic and binding free energy calculation
 
 # Publications
 ```
