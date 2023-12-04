@@ -26,10 +26,16 @@ Associate Prof. **Chen, Changjun**
 
 # Publications
 ```
- [1] Zirui Shu, Mincong Wu, Jun Liao and Changjun Chen*                                           
+ [1] Mincong Wu, Jun Liao, Zirui Shu and Changjun Chen
+     Enhanced sampling in explicit solvent by deep learning module in FSATOOL.
+     J. Comput. Chem., 2023. 44: 1845-1856.
+ [2] Jun Liao, Zirui Shu, Junyong Gao, Mincong Wu and Changjun Chen
+     SurfPB: A GPU-accelerated electrostatic calculation and visualization tool for biomolecules.
+     J. Chem. Inf. Model, 2023. 63: 4490-4496.
+ [3] Zirui Shu, Mincong Wu, Jun Liao and Changjun Chen*                                           
      FSATOOL 2.0: An integrated molecular dynamics simulation and trajectory data analysis program. 
      J. Comput. Chem. 2022. 43: 215-224                                                             
- [2] Haomiao Zhang, Qiankun Gong, Haozhe Zhang, and Changjun Chen*                                  
+ [4] Haomiao Zhang, Qiankun Gong, Haozhe Zhang, and Changjun Chen*                                  
      FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules.                                                                              
      J. Comput. Chem. 2020, 41, 156-164              
 ```
