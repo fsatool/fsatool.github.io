@@ -2,12 +2,9 @@
 
 FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics simulation and trajectory data analysis program. It is developed by Chen, Changjun's group in Huazhong University of Science and Technology.
 
-# Owner & Supervisor
+# Authoers
 
-Associate Prof. **Chen, Changjun**
-
-# Main Contributors In The Group
-
+* Associate Prof. **Chen, Changjun**
 * **Gao, Junyong** (graduate student, 2022-present)
 * **Wu, Mincong** (doctoral student, 2021-present)
 * **Liao, Jun** (doctoral student, 2020-present)
