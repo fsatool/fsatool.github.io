@@ -34,7 +34,7 @@ FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics si
 
 
 # Software Usage
-
+```
 Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
 
    "nproc" is the number of processes in the calculation.
@@ -61,7 +61,8 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
                      taskname=cv,         inputfile=cv.in
                      taskname=reducedim,  inputfile=reducedim.in
                      taskname=deep,       inputfile=deep.in
-           
+```
+
 # Publications
 ```
  [1] Mincong Wu, Jun Liao, Zirui Shu and Changjun Chen
