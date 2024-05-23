@@ -13,6 +13,15 @@ FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics si
 * **Zhang, Haozhe** (graduate student, 2018-2021)
 * **Gong, Qiankun** (graduate student, 2017-2020)
 
+# Installation
+1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
+2. Compile NetCDF-Fortran and FFTW source codes by the nvfortran compiler.
+   NetCDF (https://www.unidata.ucar.edu/software/netcdf/)
+   FFTW (http://fftw.org/)
+3. Set the environment variables NETCDFDIR and FFTWDIR with their directories.
+4. Change to this directory and compile the source codes with the command "make".
+5. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
+
 # Software Functions
 
 * GPU-accelerated molecular dynamics simulation
