@@ -31,6 +31,7 @@ FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics si
 4. Download and unzip the FSATOOL source code package.
 5. Change to FSATOOL's root path and compile the source codes by the command "make".
 6. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
+
 More installation details are given [here](https://github.com/fsatool/fsatool.github.io/wiki/Installation-Details).
 
 # Software Usage
