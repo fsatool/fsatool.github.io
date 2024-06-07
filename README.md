@@ -23,7 +23,6 @@ FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics si
 * Electrostatic and binding free energy calculation
   
 # Software Installation
-
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
 2. Compile NetCDF-Fortran and FFTW source codes by the nvfortran compiler.
    NetCDF (https://www.unidata.ucar.edu/software/netcdf/)
