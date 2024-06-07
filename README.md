@@ -1,5 +1,6 @@
 # FSATOOL
-![输入图片说明](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/1.jpg)
+![FSATOOL icon](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/1.jpg)
+
 FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics simulation and trajectory data analysis program. It is developed by Chen, Changjun's group in Huazhong University of Science and Technology.
 
 # Authors
