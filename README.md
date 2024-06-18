@@ -22,6 +22,7 @@ FSATOOL (short for "Fast Sampling and Analysis Tool") is a molecular dynamics si
 * Free energy calculation
 * Electrostatic and binding free energy calculation
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
+
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
 2. Compile NetCDF-Fortran and FFTW source codes by the nvfortran compiler.
