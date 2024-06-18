@@ -46,23 +46,27 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
 
    All the available modname, taskname and default input files are listed as follows:
 
-   modname=sim,                           inputfile=sim.in
-   modname=msm,                           inputfile=msm.in
-                     taskname=cluster     inputfile=cluster.in
-                     taskname=lumping     inputfile=lumping.in
-                     taskname=tpt         inputfile=tpt.in
-                     taskname=check       inputfile=check.in
-                     taskname=tram        inputfile=tram.in
-                     taskname=picksnap    inputfile=picksnap.in
-   modname=analysis, taskname=wham,       inputfile=wham.in
-                     taskname=gmm,        inputfile=gmm.in
-                     taskname=freehis,    inputfile=freehis.in
-                     taskname=contactmap, inputfile=contactmap.in
-                     taskname=phi,        inputfile=phi.in
-                     taskname=anm,        inputfile=anm.in
-                     taskname=cv,         inputfile=cv.in
-                     taskname=reducedim,  inputfile=reducedim.in
-                     taskname=deep,       inputfile=deep.in
+   modname=sim,                             inputfile=sim.in
+   modname=msm,                             inputfile=msm.in
+                       taskname=cluster     inputfile=cluster.in
+                       taskname=lumping     inputfile=lumping.in
+                       taskname=tpt         inputfile=tpt.in
+                       taskname=check       inputfile=check.in
+                       taskname=tram        inputfile=tram.in
+                       taskname=picksnap    inputfile=picksnap.in
+   modname=analysis,   taskname=wham,       inputfile=wham.in
+                       taskname=gmm,        inputfile=gmm.in
+                       taskname=freehis,    inputfile=freehis.in
+                       taskname=contactmap, inputfile=contactmap.in
+                       taskname=phi,        inputfile=phi.in
+                       taskname=anm,        inputfile=anm.in
+                       taskname=cv,         inputfile=cv.in
+                       taskname=reducedim,  inputfile=reducedim.in
+                       taskname=deep,       inputfile=deep.in
+   modname=normalmode, taskname=anm         inputfile=anm.in
+                       taskname=qha         inputfile=qha.in
+                       taskname=nma         inputfile=nma.in
+   modname=surfpb,                          inputfile=surfpb.in
 ```
 
 # Publications
