@@ -18,7 +18,9 @@
 
 * GPU-accelerated molecular dynamics simulation
 * Enhanced sampling in collective variable space and temperature space
+  ![enhanced_sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
 * Markov state model analysis
+  ![msm](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * Free energy calculation
 * Electrostatic and binding free energy calculation
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
