@@ -24,7 +24,7 @@
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
   ![molecular clustering](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 * Free energy calculation
-  ![free energy](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
+  ![free](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
