@@ -17,17 +17,17 @@
 # Software Functions
 
 * GPU-accelerated molecular dynamics simulation
-* Electrostatic calculation
-  ![electrostatics](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
-* Electrostatic calculation
-  ![free energy](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 * Enhanced sampling in collective variable space and temperature space
   ![enhanced sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
 * Markov state model analysis
   ![msm](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
   ![molecular clustering](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
-
+* Electrostatic calculation
+  ![electrostatics](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
+* Electrostatic calculation
+  ![free energy](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
+  
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
 2. Compile NetCDF-Fortran and FFTW source codes by the nvfortran compiler.
