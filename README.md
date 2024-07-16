@@ -23,8 +23,8 @@
   ![msm](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
   ![molecular clustering](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
-* Free energy calculation
-  ![free](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
+* Electrostatic calculation
+  ![enhanced sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
 
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
