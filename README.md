@@ -22,8 +22,11 @@
 * Markov state model analysis
   ![msm](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * Free energy calculation
+  ![enhanced_sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 * Electrostatic and binding free energy calculation
+  ![enhanced_sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
+  ![enhanced_sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
