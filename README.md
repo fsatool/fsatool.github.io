@@ -22,7 +22,7 @@
 * Markov state model analysis
   ![msm](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * Free energy calculation
-  ![free energy](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
+  ![free](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 * Electrostatic and binding free energy calculation
   ![Electrostatics](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
 * [Molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
