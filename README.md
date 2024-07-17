@@ -18,15 +18,15 @@
 
 * GPU-accelerated molecular dynamics simulation
 * Enhanced sampling in collective variable space and temperature space
-  ![enhanced sampling](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
+  ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
 * Markov state model analysis and transition path calculation
-  ![msm](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
+  ![(fig:msm)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * [Massive molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
-  ![molecular clustering](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
+  ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 * Electrostatic potential, solvation free energy and binding free energy calculation
-  ![electrostatics](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
+  ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
 * Dimensionality reduction and free energy calculation
-  ![free energy](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
+  ![(fig:free energy)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
   
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
