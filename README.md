@@ -27,6 +27,7 @@
   
   ![electrostatics](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
 * Free energy calculation
+  
   ![free energy](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
   
 # Software Installation
