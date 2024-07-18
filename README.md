@@ -17,6 +17,7 @@
 # Software Functions
 
 * GPU-accelerated molecular dynamics simulation
+  ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/periodic_box.jpg)
 * Enhanced sampling in collective variable space and temperature space
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
 * Markov state model analysis and transition path calculation
