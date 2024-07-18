@@ -16,7 +16,7 @@
 
 # Software Functions
 
-* GPU-accelerated molecular dynamics simulation
+* GPU-accelerated molecular dynamics simulation in implicit and explicit solvent
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/periodic_box.jpg)
 * Enhanced sampling in collective variable space and temperature space
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
