@@ -6,6 +6,7 @@
 # Authors
 
 * Associate Prof. **Chen, Changjun**
+* **Meng, Fanjun** (graduate student, 2023-present)
 * **Gao, Junyong** (graduate student, 2022-present)
 * **Wu, Mincong** (doctoral student, 2021-present)
 * **Liao, Jun** (doctoral student, 2020-present)
