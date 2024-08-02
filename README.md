@@ -84,10 +84,10 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
  [2] Jun Liao, Zirui Shu, Junyong Gao, Mincong Wu and Changjun Chen
      SurfPB: A GPU-accelerated electrostatic calculation and visualization tool for biomolecules.
      J. Chem. Inf. Model, 2023. 63: 4490-4496.
- [3] Zirui Shu, Mincong Wu, Jun Liao and Changjun Chen*                                           
+ [3] Zirui Shu, Mincong Wu, Jun Liao and Changjun Chen                                        
      FSATOOL 2.0: An integrated molecular dynamics simulation and trajectory data analysis program. 
      J. Comput. Chem. 2022. 43: 215-224                                                             
- [4] Haomiao Zhang, Qiankun Gong, Haozhe Zhang, and Changjun Chen*                                  
+ [4] Haomiao Zhang, Qiankun Gong, Haozhe Zhang, and Changjun Chen                                  
      FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules.                                                                              
      J. Comput. Chem. 2020, 41, 156-164              
 ```
