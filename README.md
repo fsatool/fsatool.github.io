@@ -6,14 +6,14 @@
 # Authors
 
 * Associate Prof. **Chen, Changjun**
-* **Meng, Fanjun** (graduate student, 2023-present)
+* **Meng, Fanjun** (doctoral student, 2023-present)
 * **Gao, Junyong** (graduate student, 2022-present)
 * **Wu, Mincong** (doctoral student, 2021-present)
 * **Liao, Jun** (doctoral student, 2020-present)
 * **Shu, Zirui** (graduate student, 2020-2023)
-* **Zhang, Haomiao** (doctoral student, 2016-2021)
 * **Zhang, Haozhe** (graduate student, 2018-2021)
 * **Gong, Qiankun** (graduate student, 2017-2020)
+* **Zhang, Haomiao** (doctoral student, 2016-2021)
 
 # Software Functions
 
