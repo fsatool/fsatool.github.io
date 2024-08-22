@@ -17,17 +17,17 @@
 
 # Software Functions
 
-* GPU-accelerated molecular dynamics simulation in implicit and explicit solvent (REF.1, REF.2, REF.3)
+* GPU-accelerated molecular dynamics simulation in implicit and explicit solvent (Ref.1, Ref.2, Ref.3)
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/periodic_box.jpg)
-* Enhanced sampling in collective variable space and temperature space (REF.1, REF.2, REF.3)
+* Enhanced sampling in collective variable space and temperature space (Ref.1, Ref.2, Ref.3)
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
-* Markov state model analysis and transition path calculation (REF.1)
+* Markov state model analysis and transition path calculation (Ref.1)
   ![(fig:msm)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
-* Dimensionality reduction and free energy calculation (REF.1, REF.2, REF.3)
+* Dimensionality reduction and free energy calculation (Ref.1, Ref.2, Ref.3)
   ![(fig:free energy)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
-* Electrostatic potential, solvation free energy and binding free energy calculation (REF.4)
+* Electrostatic potential, solvation free energy and binding free energy calculation (Ref.4)
   ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
-* [Massive molecular structure clustering with RMSD metric](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (REF.5)
+* [Massive molecular structure clustering with RMSD metric](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (Ref.5)
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
   
 # Software Installation
