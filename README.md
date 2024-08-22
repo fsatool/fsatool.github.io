@@ -34,7 +34,7 @@
 [FSATOOL release](https://github.com/fsatool/fsatool.github.io/releases/tag/fsatool)
 
 # Reference Manual
-  The FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
+  FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
   
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
