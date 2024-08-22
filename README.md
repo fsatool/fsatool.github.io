@@ -29,6 +29,12 @@
   ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
 * [Massive molecular structure clustering with RMSD metric](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (Ref.5)
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
+
+# Download
+[FSATOOL release](https://github.com/fsatool/fsatool.github.io/releases/tag/fsatool)
+
+# Reference Manual
+  The FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
   
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
@@ -95,12 +101,6 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
      Clustering one million molecular structures on GPU within seconds.
      J. Comput. Chem. 2024, https://onlinelibrary.wiley.com/doi/10.1002/jcc.27470
 ```
-
-# Reference Manual
-  The FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
-
-# Download
-[FSATOOL release](https://github.com/fsatool/fsatool.github.io/releases/tag/fsatool)
 
 # Acknowledgment
 
