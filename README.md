@@ -79,7 +79,7 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
 # Publications
 ```
  [1] Junyong Gao, Mincong Wu, Jun Liao, Fanjun Meng, Changjun Chen
-     Clustering one million molecular structures on GPU within seconds
+     Clustering one million molecular structures on GPU within seconds.
      J. Comput. Chem. 2024, https://onlinelibrary.wiley.com/doi/10.1002/jcc.27470
  [2] Mincong Wu, Jun Liao, Zirui Shu and Changjun Chen
      Enhanced sampling in explicit solvent by deep learning module in FSATOOL.
