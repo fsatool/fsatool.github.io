@@ -100,7 +100,7 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
   The FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
 
 # Download
-[FSATOOL](https://github.com/fsatool/fsatool.github.io/releases/tag/fsatool)
+[FSATOOL release](https://github.com/fsatool/fsatool.github.io/releases/tag/fsatool)
 
 # Acknowledgment
 
