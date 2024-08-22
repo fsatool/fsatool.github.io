@@ -23,7 +23,7 @@
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
 * Markov state model analysis and transition path calculation
   ![(fig:msm)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
-* [Massive molecular structure clustering](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
+* [Massive molecular structure clustering with RMSD metric](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 * Electrostatic potential, solvation free energy and binding free energy calculation
   ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
@@ -96,7 +96,7 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
 ```
 
 # Reference Manual
-  The FSATOOL reference manual is on the [website](https://github.com/fsatool/fsatool.github.io/wiki).
+  The FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
 
 # Download
 [FSATOOL](https://github.com/fsatool/fsatool.github.io)
