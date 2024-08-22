@@ -33,12 +33,13 @@
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
 2. Compile NetCDF-Fortran and FFTW source codes by the nvfortran compiler.
+   
    NetCDF (https://www.unidata.ucar.edu/software/netcdf/)
    FFTW (http://fftw.org/)
-3. Set the environment variables NETCDFDIR and FFTWDIR to their root path.
-4. Download and unzip the FSATOOL source code package.
-5. Change to FSATOOL's root path and compile the source codes by the command "make".
-6. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
+4. Set the environment variables NETCDFDIR and FFTWDIR to their root path.
+5. Download and unzip the FSATOOL source code package.
+6. Change to FSATOOL's root path and compile the source codes by the command "make".
+7. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
 
 More installation details are given [here](https://github.com/fsatool/fsatool.github.io/wiki/Installation-Details).
 
