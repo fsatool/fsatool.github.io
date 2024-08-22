@@ -17,18 +17,18 @@
 
 # Software Functions
 
-* GPU-accelerated molecular dynamics simulation in implicit and explicit solvent
+* GPU-accelerated molecular dynamics simulation in implicit and explicit solvent (REF.1, REF.2, REF.3)
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/periodic_box.jpg)
-* Enhanced sampling in collective variable space and temperature space
+* Enhanced sampling in collective variable space and temperature space (REF.1, REF.2, REF.3)
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
-* Markov state model analysis and transition path calculation
+* Markov state model analysis and transition path calculation (REF.1)
   ![(fig:msm)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
-* [Massive molecular structure clustering with RMSD metric](https://github.com/fsatool/fsatool.github.io/wiki/Clustering)
-  ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
-* Electrostatic potential, solvation free energy and binding free energy calculation
-  ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
-* Dimensionality reduction and free energy calculation
+* Dimensionality reduction and free energy calculation (REF.1, REF.2, REF.3)
   ![(fig:free energy)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
+* Electrostatic potential, solvation free energy and binding free energy calculation (REF.4)
+  ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
+* [Massive molecular structure clustering with RMSD metric](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (REF.5)
+  ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
   
 # Software Installation
 1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
@@ -79,21 +79,21 @@ Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
 
 # Publications
 ```
- [1] Junyong Gao, Mincong Wu, Jun Liao, Fanjun Meng, Changjun Chen
-     Clustering one million molecular structures on GPU within seconds.
-     J. Comput. Chem. 2024, https://onlinelibrary.wiley.com/doi/10.1002/jcc.27470
- [2] Mincong Wu, Jun Liao, Zirui Shu and Changjun Chen
+ [1] Haomiao Zhang, Qiankun Gong, Haozhe Zhang, and Changjun Chen                                  
+     FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules.                                               
+     J. Comput. Chem. 2020, 41, 156-164
+ [2] Zirui Shu, Mincong Wu, Jun Liao and Changjun Chen                                        
+     FSATOOL 2.0: An integrated molecular dynamics simulation and trajectory data analysis program. 
+     J. Comput. Chem. 2022. 43: 215-224
+ [3] Mincong Wu, Jun Liao, Zirui Shu and Changjun Chen
      Enhanced sampling in explicit solvent by deep learning module in FSATOOL.
-     J. Comput. Chem., 2023. 44: 1845-1856.
- [3] Jun Liao, Zirui Shu, Junyong Gao, Mincong Wu and Changjun Chen
+     J. Comput. Chem., 2023. 44: 1845-1856.   
+ [4] Jun Liao, Zirui Shu, Junyong Gao, Mincong Wu and Changjun Chen
      SurfPB: A GPU-accelerated electrostatic calculation and visualization tool for biomolecules.
      J. Chem. Inf. Model, 2023. 63: 4490-4496.
- [4] Zirui Shu, Mincong Wu, Jun Liao and Changjun Chen                                        
-     FSATOOL 2.0: An integrated molecular dynamics simulation and trajectory data analysis program. 
-     J. Comput. Chem. 2022. 43: 215-224                                                             
- [5] Haomiao Zhang, Qiankun Gong, Haozhe Zhang, and Changjun Chen                                  
-     FSATOOL: A useful tool to do the conformational sampling and trajectory analysis work for biomolecules.                                                                              
-     J. Comput. Chem. 2020, 41, 156-164              
+ [5] Junyong Gao, Mincong Wu, Jun Liao, Fanjun Meng, Changjun Chen
+     Clustering one million molecular structures on GPU within seconds.
+     J. Comput. Chem. 2024, https://onlinelibrary.wiley.com/doi/10.1002/jcc.27470
 ```
 
 # Reference Manual
