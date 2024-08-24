@@ -31,7 +31,7 @@
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 
 # Download
-[FSATOOL release](https://github.com/fsatool/fsatool.github.io/releases/tag/fsatool)
+[FSATOOL](https://github.com/fsatool/fsatool.github.io)
 
 # Reference Manual
   FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
