@@ -27,7 +27,7 @@
   ![(fig:free energy)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 * Electrostatic potential, solvation free energy and binding free energy calculation (Ref.4)
   ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
-* [Massive molecular structure clustering with RMSD metric(one million)](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (Ref.5)
+* [Massive molecular structure clustering with RMSD metric (one million)](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (Ref.5)
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 
 # Download
