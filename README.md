@@ -23,11 +23,11 @@
   ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/enhanced_sampling.jpg)
 * Markov state model analysis and transition path calculation (Ref.1)
   ![(fig:msm)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
-* Dimensionality reduction and free energy calculation (PCA, TICA, SRV, TAE, GMM, WHAM, MBAR) (Ref.1, Ref.2, Ref.3)
+* Dimensionality reduction and free energy calculation (PCA, TICA, SRV, TAE; GMM, WHAM, MBAR) (Ref.1, Ref.2, Ref.3)
   ![(fig:free energy)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/free_energy.png)
 * Electrostatic potential, solvation free energy and binding free energy calculation (MM-PBSA/GBSA, GPU acceleration) (Ref.4)
   ![(fig:electrostatics)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/electrostatics.jpg)
-* [Massive molecular structure clustering with RMSD metric (one million)] (K-medoids, GPU acceleration) (https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (Ref.5)
+* [Massive molecular structure clustering (one million)] (K-medoids, RMSD metric, GPU acceleration) (https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (Ref.5)
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 
 # Download
