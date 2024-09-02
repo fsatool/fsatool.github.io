@@ -42,8 +42,6 @@
 3. Compile the FSATOOL source codes by the command "make".
 4. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
 
-More installation details are given [here](https://github.com/fsatool/fsatool.github.io/wiki/Installation-Details).
-
 # Software Usage
 ```
 Execute the command "mpirun -n nproc fsatool modname taskname -i inputfile"
