@@ -18,7 +18,7 @@
 # Software Functions
 
 * Molecular dynamics simulation in implicit and explicit solvent (GB, PME, GPU acceleration) (Ref.2, Ref.3)
-  ![(fig:enhanced sampling)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/periodic_box.jpg)
+  ![(fig:pme)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/pme.jpg)
 * Collective variable calculation for MD trajectory (Ref.2)
   ![(fig:collective variable)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cv.jpg)
 * Enhanced sampling in collective variable space and temperature space (SMD, REMD, ABMD) (Ref.1, Ref.2, Ref.3)
