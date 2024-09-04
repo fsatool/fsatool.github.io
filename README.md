@@ -103,5 +103,5 @@ We gratefully acknowledge the support from the National Natural Science Foundati
 
 # Contact Information
 
-If you have any question, please contact Associate Prof. **Chen, Changjun**  
+If you have any question, please contact **Chen, Changjun**  
 * Email: **cjchen@hust.edu.cn**
