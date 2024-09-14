@@ -39,10 +39,12 @@
   FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
   
 # Software Installation
-1. Install NVIDIA HPC SDK (https://developer.nvidia.com/nvidia-hpc-sdk-downloads). Set up the environment and ensure the nvcc, nvfortran, mpicc, mpif90 compiler working properly.
-2. Change to FSATOOL's root path and run 'make preparelib' to install NETCDF and FFTW libraries.
-3. Compile the FSATOOL source codes by the command "make".
-4. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
+1. Download and Install NVIDIA HPC SDK (NVHPC)(https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
+2. Set up the NVHPC environment and ensure NVHPC's compilers(nvcc, nvfortran, mpicc, mpif90) working properly.
+3. Download and unzip the FSATOOL source code package (https://github.com/fsatool/fsatool.github.io).
+4. Change to FSATOOL's root path and run 'make preparelib' to install NETCDF and FFTW libraries.
+5. Compile the FSATOOL source codes by the command "make".
+6. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
 
 # Software Usage
 ```
