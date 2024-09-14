@@ -40,7 +40,7 @@
   
 # Software Installation
 1. Download and Install NVIDIA HPC SDK (NVHPC)(https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
-2. Set up the NVHPC environment and ensure NVHPC's compilers(nvcc, nvfortran, mpicc, mpif90) working properly.
+2. Set up the NVHPC environment and ensure NVHPC's compilers (nvcc, nvfortran, mpicc, mpif90) working properly.
 3. Download and unzip the FSATOOL source code package (https://github.com/fsatool/fsatool.github.io).
 4. Change to FSATOOL's root path and run 'make preparelib' to install NETCDF and FFTW libraries.
 5. Compile the FSATOOL source codes by the command "make".
