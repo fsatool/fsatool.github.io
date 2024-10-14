@@ -43,7 +43,7 @@
 2. Download and Install cuTENSOR (https://developer.nvidia.com/cutensor-downloads)
 3. Set up the NVHPC environment by the module file in the directory ${NVHPC_HOME}/modulefiles/nvhpc/ and ensure NVHPC's compilers (nvcc, nvfortran, mpicc, mpif90) are working properly.
 4. Download the FSATOOL repository (git clone https://github.com/fsatool/fsatool.github.io).
-5. Unzip the FSATOOL source code package and move into the directory.
+5. Unzip the latest FSATOOL source code package and move into the directory.
 6. Run 'make preparelib' to install NETCDF and FFTW libraries.
 7. Run 'make' to compile FSATOOL source codes
 8. Copy the generated executable file "fsatool" to any place you want to do the simulation or analysis work.
