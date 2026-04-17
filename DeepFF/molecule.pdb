@@ -1,0 +1,22 @@
+HETATM    1  C1  AIN A   1       2.239  -0.379   0.263    6
+HETATM    2  C2  AIN A   1       0.842   1.923  -0.425    6
+HETATM    3  C3  AIN A   1       2.871   0.846   0.272    6
+HETATM    4  C4  AIN A   1       2.175   1.994  -0.070    6
+HETATM    5  C5  AIN A   1      -3.484   0.495  -0.090    6
+HETATM    6  C6  AIN A   1       0.891  -0.465  -0.094    6
+HETATM    7  C7  AIN A   1       0.191   0.699  -0.440    6
+HETATM    8  O8  AIN A   1      -0.963  -1.843  -0.418    8
+HETATM    9  O9  AIN A   1      -1.653   0.889   1.341    8
+HETATM   10  O10 AIN A   1       0.886  -2.888   0.227    8
+HETATM   11  C11 AIN A   1       0.209  -1.772  -0.107    6
+HETATM   12  C12 AIN A   1      -2.018   0.685   0.207    6
+HETATM   13  O13 AIN A   1      -1.119   0.628  -0.789    8
+HETATM   14  H14 AIN A   1       0.396  -3.722   0.203    1
+HETATM   15  H15 AIN A   1       2.787  -1.272   0.527    1
+HETATM   16  H16 AIN A   1       0.307   2.822  -0.691    1
+HETATM   17  H17 AIN A   1       3.913   0.911   0.548    1
+HETATM   18  H18 AIN A   1       2.678   2.949  -0.060    1
+HETATM   19  H19 AIN A   1      -3.736  -0.562  -0.012    1
+HETATM   20  H20 AIN A   1      -4.076   1.064   0.627    1
+HETATM   21  H21 AIN A   1      -3.699   0.847  -1.099    1
+END
