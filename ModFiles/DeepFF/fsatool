@@ -1,0 +1,28 @@
+#!/bin/bash
+FSATOOLHOME=/home/ccj/program/newdeep/fsatool
+source ${FSATOOLHOME}/lib/config
+if [[ $1 == "sim" ]]; then
+   ${FSATOOLHOME}/sim/sim.x "${@:2}"
+elif [[ $1 == "msm" ]]; then
+   ${FSATOOLHOME}/msm/msm.x "${@:2}"
+elif [[ $1 == "analysis" ]]; then
+   ${FSATOOLHOME}/analysis/analysis.x "${@:2}"
+elif [[ $1 == "normalmode" ]]; then
+   ${FSATOOLHOME}/normalmode/normalmode.x "${@:2}"
+elif [[ $1 == "surfpb" ]]; then
+   ${FSATOOLHOME}/surfpb/surfpb.x "${@:2}"
+else
+   echo "The first argument must be sim, msm, normalmode or analysis"
+fi
+exit
+
+NVHPC information
+
+nvfortran 22.5-0 64-bit target on x86-64 Linux -tp sandybridge 
+NVIDIA Compilers and Tools
+Copyright (c) 2022, NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2022 NVIDIA Corporation
+Built on Tue_May__3_18:49:52_PDT_2022
+Cuda compilation tools, release 11.7, V11.7.64
+Build cuda_11.7.r11.7/compiler.31294372_0
