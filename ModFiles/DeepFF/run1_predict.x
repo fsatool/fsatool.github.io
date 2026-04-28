@@ -1,5 +1,4 @@
 mpiexec -np 1 fsatool analysis deep  -i run1_predict.x
-
 exit $?
 
 &deep
