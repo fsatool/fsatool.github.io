@@ -29,7 +29,7 @@
   ![(fig:msm)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/msm.jpg)
 * Electrostatic potential, solvation free energy and binding free energy calculation (MM-PBSA/GBSA, GPU acceleration) (Ref.4)
   ![(fig:mmpbsa)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/mmpbsa.jpg)
-* [Massive molecular structure clustering (one million)](https://github.com/fsatool/fsatool.github.io/wiki/Clustering) (K-medoids, GPU acceleration) (Ref.5)
+* Massive molecular structure clustering (one million) (K-medoids, GPU acceleration) (Ref.5)
   ![(fig:molecular clustering)](https://github.com/fsatool/fsatool.github.io/blob/master/images/manual/cluster.jpg)
 
 # Download
