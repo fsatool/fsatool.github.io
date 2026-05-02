@@ -39,7 +39,7 @@
   FSATOOL reference manual is on the [web page](https://github.com/fsatool/fsatool.github.io/wiki).
   
 # Software Installation
-1. Download and Install NVIDIA HPC SDK (NVHPC, version 22.5) (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
+1. Download and Install NVIDIA HPC SDK (NVHPC) (https://developer.nvidia.com/nvidia-hpc-sdk-downloads).
 2. Set up the NVHPC environment by the module file in the directory ${NVHPC_HOME}/modulefiles/nvhpc/ and ensure NVHPC's compilers (nvcc, nvfortran, mpicc, mpif90) are working properly.
 3. Download the FSATOOL repository by "git clone https://github.com/fsatool/fsatool.github.io".
 4. Unzip the latest FSATOOL source code package in the cloned FSATOOL repository and change path into the unzipped directory.
